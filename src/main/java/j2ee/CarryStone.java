@@ -1,9 +1,9 @@
 package j2ee;
 
-public class HelloWorld {
+public class CarryStone {
 
 	public static void main(String[] args) {
-		System.out.println("this is GitHub!");
+		System.out.println("CarryStoneNo2");
 
 	}
 
